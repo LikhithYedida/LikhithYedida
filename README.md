@@ -49,7 +49,30 @@ My work spans financial analytics, customer analytics, forecasting, and data qua
 ✔ Model evaluation & insights
 
 ---
+5️⃣ Credit Card Fraud Analytics (SQL + Python + Machine Learning + Tableau)
 
+📁 /creditcard_fraud_analytics
+✔ End-to-end data cleaning & SQL quality checks
+✔ ML model training (Logistic Regression & Random Forest)
+✔ Real-time inference pipeline using predict.py
+✔ Tableau dashboard for fraud pattern insights
+✔ Model evaluation (ROC-AUC, Precision, Recall, Confusion Matrix)
+
+6️⃣ Retail Supply Chain Optimization (Python + Analytics)
+
+📁 /retail_supplychain_optimization
+✔ Inventory analysis & demand variability
+✔ Lead-time optimization
+✔ Safety stock & reorder point automation
+✔ Visual analytics using Python
+
+7️⃣ Marketing Analytics — A/B Testing (Python)
+
+📁 /marketing_analytics_AB_testing
+✔ Hypothesis testing (t-test, chi-square)
+✔ Conversion rate uplift analysis
+✔ Confidence intervals & effect size
+✔ Business recommendations based on statistical validity
 ## 📫 Connect With Me  
 📧 yedidalikhith@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/likhithyedida  
