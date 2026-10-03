@@ -23,10 +23,10 @@ Data Analyst who builds the SQL, pipelines and dashboards that leadership relies
 
 **Personal Injury Data Analyst · Postman Law** · Feb 2026 – Sep 2026 · Remote
 - Developed SQL for 15+ key case-management reports in Sigma Computing, with data validation built in
-- Built 22 Power BI dashboards with data-quality checks, governance principles and automated refreshes, giving leadership visibility into case progress and task completion
+- Built 22 dashboards in Sigma Computing and Salesforce (Litify) with data-quality checks, governance principles and automated refreshes, giving leadership visibility into case progress and task completion
 - Profiled datasets with Python and pandas to identify 3,000+ duplicate and null records, streamlining data quality for reporting automation
 
-`SQL` `Sigma Computing` `Power BI` `Python` `Salesforce (Litify)` `Excel`
+`SQL` `Sigma Computing` `Salesforce (Litify)` `Python` `pandas` `Excel`
 
 ---
 
