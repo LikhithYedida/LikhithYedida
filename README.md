@@ -1,10 +1,10 @@
 # Likhith Yedida
 
-**Data Analyst · Business Intelligence · Analytics Engineering**
+**Data Analyst (5+ years) · Business Intelligence · Analytics Engineering**
 
 [Portfolio](https://likhithyedidaportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/likhithyedida/) · [Email](mailto:yedidalikhith@gmail.com)
 
-Data Analyst who builds the SQL, pipelines and dashboards that leadership relies on. Most recently I ran case analytics at a personal injury law firm, and I build end-to-end analytics projects on real-world data across legal operations, healthcare, banking, vehicle safety, emergency response and labor markets, with a consistent focus on data quality so the numbers hold up in the room.
+Data Analyst with 5+ years across financial, legal and hospitality data, from portfolio reporting at Citi and Synchrony to case analytics at a personal injury law firm. I build the SQL, pipelines and dashboards that leadership relies on, and I build end-to-end analytics projects on real-world data across legal operations, healthcare, banking, vehicle safety, emergency response and labor markets, with a consistent focus on data quality so the numbers hold up in the room.
 
 **Open to Data Analyst, BI Analyst and Analytics Engineering roles.**
 
@@ -27,6 +27,29 @@ Data Analyst who builds the SQL, pipelines and dashboards that leadership relies
 - Profiled datasets with Python and pandas to identify 3,000+ duplicate and null records, streamlining data quality for reporting automation
 
 `SQL` `Sigma Computing` `Salesforce (Litify)` `Python` `pandas` `Excel`
+
+**Data Analyst · Synchrony Financial** · Jul 2024 – Jan 2026 · Remote
+- Designed and maintained 10+ Power BI portfolio dashboards on SQL data models for cross-functional stakeholders in consumer finance
+- Improved data refresh efficiency by 20% with Power Query and DAX transformations
+- Automated data-quality checks in Python, cutting manual validation time by 35%
+- Documentation and metadata work cut support queries by 30%
+
+`Power BI` `DAX` `Power Query` `SQL` `Python` `Excel` `Jira` `Git`
+
+**Data Analyst · Citicorp Credit Services** · Jul 2021 – Jul 2023 · Remote
+- Improved query performance by 35% on SQL Server and Azure Synapse for a high-volume transactional credit platform
+- Sped up data refresh cycles by 40% by managing Azure Data Factory and Databricks pipelines
+- Delivered 25% faster insight generation with DAX-driven Power BI models
+- Forecast payment behavior with scikit-learn regression, and cut release errors by 30% with CI/CD
+
+`SQL Server` `Azure Synapse` `Azure Data Factory` `Databricks` `Power BI` `Tableau` `Python` `Jenkins`
+
+**Data Analyst · Marriott International** · Jul 2020 – Jun 2021 · Telangana, India
+- Built Power BI occupancy dashboards across 50+ properties for regional leadership
+- Automated Excel reconciliations, reducing manual errors by 30% and speeding up month-end close
+- Created Tableau drill-downs for revenue and cancellation trends
+
+`SQL` `Power Query` `Power BI` `Tableau` `Excel`
 
 ---
 
